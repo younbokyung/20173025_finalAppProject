@@ -12,8 +12,8 @@
 - 실행 화면 이미지
 
 
-<img width="300" height="550" src="https://user-images.githubusercontent.com/90364468/146535695-6620e8dc-700d-4a4a-aafc-98cbd1a35349.png"></img>
-<img width="300" height="550" src="https://user-images.githubusercontent.com/90364468/146535702-d3727dfc-83a9-46fb-a7a0-60c22f4fbbc4.png"></img>
+<img width="300" height="560" src="https://user-images.githubusercontent.com/90364468/146535695-6620e8dc-700d-4a4a-aafc-98cbd1a35349.png"></img>
+<img width="300" height="560" src="https://user-images.githubusercontent.com/90364468/146535702-d3727dfc-83a9-46fb-a7a0-60c22f4fbbc4.png"></img>
 
 - 기능 설명
   - 로그인 it, 패스워드 0000으로 입력하지 않는다면 비밀번호만 리셋되고, 다시 로그인을 수행해야 한다. 
@@ -24,12 +24,12 @@
 - 실행 화면 이미지
 
 
-<img width="300" height="550" src="https://user-images.githubusercontent.com/90364468/146535705-859e8f3f-721c-4cd2-bf0d-f34177fbd095.png"></img>
-<img width="300" height="550" src="https://user-images.githubusercontent.com/90364468/146535708-7981f292-84ed-415f-9fcb-3829f963ff1d.png"></img>
+<img width="300" height="560" src="https://user-images.githubusercontent.com/90364468/146535705-859e8f3f-721c-4cd2-bf0d-f34177fbd095.png"></img>
+<img width="300" height="560" src="https://user-images.githubusercontent.com/90364468/146535708-7981f292-84ed-415f-9fcb-3829f963ff1d.png"></img>
 
 
-<img width="300" height="550" src="https://user-images.githubusercontent.com/90364468/146535742-7e05f5e8-9899-4640-8eaf-5a13b342047b.png"></img>
-<img width="300" height="550" src="https://user-images.githubusercontent.com/90364468/146535744-949c9965-9637-438c-982f-041f275019c6.png"></img>
+<img width="300" height="560" src="https://user-images.githubusercontent.com/90364468/146535742-7e05f5e8-9899-4640-8eaf-5a13b342047b.png"></img>
+<img width="300" height="560" src="https://user-images.githubusercontent.com/90364468/146535744-949c9965-9637-438c-982f-041f275019c6.png"></img>
 
 - 기능 설명
   - EditText에 직접 숫자를 입력하여 호출이 가능하고, 안드로이드에서 제공하는 DatePickerDialog를 이용하여 날짜를 입력받을 수 있다. 단, 월(Month)이 한 글자이거나 일(dayOfMonth)이 한 글자인 경우 오류가 발생하고, 1월이 0으로 표기되고, 2월이 1로 표기되어 이 점을 if문을 이용하여 사용자가 입력한 값을 제대로 받아 올 수 있도록 한다.
@@ -42,8 +42,8 @@
 - 실행 화면 이미지
 
 
-<img width="300" height="550" src="https://user-images.githubusercontent.com/90364468/146535712-77aacbf3-6c11-4500-964f-7deadd20243f.png"></img>
-<img width="300" height="550" src="https://user-images.githubusercontent.com/90364468/146535717-928811a2-62ca-4464-a60d-ec178ed71671.png"></img>
+<img width="300" height="560" src="https://user-images.githubusercontent.com/90364468/146535712-77aacbf3-6c11-4500-964f-7deadd20243f.png"></img>
+<img width="300" height="560" src="https://user-images.githubusercontent.com/90364468/146535717-928811a2-62ca-4464-a60d-ec178ed71671.png"></img>
 
 - 기능 설명
   - 검색 버튼을 클릭해 Search view에 검색하고 싶은 영화 제목을 입력한 후 검색 버튼을 누르게 된다면 네이버 api 주소와 합쳐져 네이버에 요청이 되고, 사용자가 보기 쉬운 형태인 카드뷰와 리싸이클러뷰 형태로 받아 볼 수 있다.
@@ -55,8 +55,8 @@
 - 실행 화면 이미지
 
 
-<img width="300" height="550" src="https://user-images.githubusercontent.com/90364468/146535728-4e468b94-014a-4ace-b5f2-d302ec1dfd71.png"></img>
-<img width="300" height="550" src="https://user-images.githubusercontent.com/90364468/146535738-21e11032-bd4e-4848-8115-2fc88b459785.png"></img>
+<img width="300" height="560" src="https://user-images.githubusercontent.com/90364468/146535728-4e468b94-014a-4ace-b5f2-d302ec1dfd71.png"></img>
+<img width="300" height="560" src="https://user-images.githubusercontent.com/90364468/146535738-21e11032-bd4e-4848-8115-2fc88b459785.png"></img>
 
 - 기능 설명
   -Edit Text에 글을 입력하면 byte를 카운트하여 100자까지만 입력 가능하도록 제한함.
@@ -70,7 +70,7 @@
 - 실행 화면 이미지
 
 
-<img width="300" height="550" src="https://user-images.githubusercontent.com/90364468/146535740-3e31f8b9-903f-4ac0-a9f8-9f928c57f340.png"></img>
+<img width="300" height="560" src="https://user-images.githubusercontent.com/90364468/146535740-3e31f8b9-903f-4ac0-a9f8-9f928c57f340.png"></img>
 
 - 기능 설명
   - 각각의 탭에 대한 설명을 카드뷰와 리싸이클러뷰 형태로 나열함.
