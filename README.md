@@ -3,6 +3,7 @@
 ## 20173025_2A_윤보경_캡스톤 디자인 기말과제
 
 - 기말과제 주제 : 영화 후기 작성 프로그램
+  - 처음 
 
 ### 로그인 : it, 패스워드 : 0000
 
@@ -22,6 +23,8 @@
 
 <img width="300" height="550" src="https://user-images.githubusercontent.com/90364468/146535705-859e8f3f-721c-4cd2-bf0d-f34177fbd095.png"></img>
 <img width="300" height="550" src="https://user-images.githubusercontent.com/90364468/146535708-7981f292-84ed-415f-9fcb-3829f963ff1d.png"></img>
+
+
 <img width="300" height="550" src="https://user-images.githubusercontent.com/90364468/146535742-7e05f5e8-9899-4640-8eaf-5a13b342047b.png"></img>
 <img width="300" height="550" src="https://user-images.githubusercontent.com/90364468/146535744-949c9965-9637-438c-982f-041f275019c6.png"></img>
 
